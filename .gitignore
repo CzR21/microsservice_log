@@ -1,0 +1,15 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Microsservice-Log-Application/bin/Debug/net7.0
+/Microsservice-Log-Application/obj
+/Microsservice-Log-CrossCutting/bin/Debug/net7.0
+/Microsservice-Log-CrossCutting/obj
+/Microsservice-Log-Data/bin/Debug/net7.0
+/Microsservice-Log-Data/obj
+/Microsservice-Log-Domain/bin/Debug/net7.0
+/Microsservice-Log-Domain/obj
+/Microsservice-Log-Service/bin/Debug/net7.0
+/Microsservice-Log-Service/obj
